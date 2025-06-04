@@ -62,7 +62,7 @@ This project was collaboratively developed by a group of dedicated students as p
 - **Abhishek Kumar**  *(Leader)*
 - **Abhishek Maheshwari** *(EDA & Documentation)*  
 - **Anubhav Gangwar**  
-- **Ridhima Mahebhwari**  
+- **Ridhima Maheshwari**  
 - **Vansh Gupta**  
 - **Samina Nooreen**  
 - **Soni**  
