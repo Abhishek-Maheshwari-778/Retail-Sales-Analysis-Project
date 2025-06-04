@@ -50,6 +50,43 @@ The richness of this dataset enables deep dives into product-level insights, cus
 
 ---
 
+
+---
+
+## 👥 Team Members
+
+This project was collaboratively developed by a group of dedicated students as part of the **3rd Semester IIoT course** at Invertis University. Each member contributed to data analysis, visualization, documentation, or presentation.
+
+### 🔹 Team Members:
+
+- **Abhishek Kumar**  *(Leader)*
+- **Abhishek Maheshwari** *(EDA & Documentation)*  
+- **Anubhav Gangwar**  
+- **Ridhima Mahebhwari**  
+- **Vansh Gupta**  
+- **Samina Nooreen**  
+- **Soni**  
+- **Mohd Sheeban Khan**  
+- **Ankit Kumar**  
+- **Sanjay Mishra**  
+- **Arpit Gupta**  
+- **Aryan Srivastava**  
+- **Vaishnavi Gupta**
+
+> 🙌 Each member played a vital role in researching, cleaning, analyzing, and presenting data. Special focus was given to teamwork, communication, and practical application of Industrial IoT and data analytics concepts.
+
+---
+
+## 📌 Note
+
+- This project was submitted as part of the **3rd Semester Project** under the subject **Industrial Internet of Things (IIoT)**.
+- All datasets, visualizations, and machine learning models are included in the Jupyter Notebook and PDF reports.
+- To view visual outputs, please see the `/images/` directory in this repository.
+
+---
+
+
+
 ## 🧰 Tools & Libraries Used
 
 The analysis is performed using Python, one of the most popular programming languages for data science. The following libraries were used to manipulate data, create visualizations, and build the regression model:
@@ -68,3 +105,4 @@ from category_encoders import BinaryEncoder
 import datetime as dt              # For handling date and time
 import warnings                    # To ignore warnings for cleaner outputs
 warnings.filterwarnings("ignore")
+
